@@ -1,0 +1,22 @@
+{
+  "name": "genera-inserts-from-excel",
+  "version": "1.0.0",
+  "description": "Genera inserts leyendo excel e imagenes base 64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngJavierR/GeneraInsertsFromExcel.git"
+  },
+  "author": "Javier Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IngJavierR/GeneraInsertsFromExcel/issues"
+  },
+  "homepage": "https://github.com/IngJavierR/GeneraInsertsFromExcel#readme",
+  "dependencies": {
+    "exceljs": "^0.2.8"
+  }
+}
